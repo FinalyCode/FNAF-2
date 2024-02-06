@@ -1,6 +1,8 @@
 # FNAF-2
 Fnaf 2 - Scratch Remake By Me
 
+WARNING: SOME BROWSERS WONT PLAY SOUNDS UNTIL THE USER INTERACTS WITH THE PROJECT
+
 How I made:
 First, I programmed the game in scratch, than used turowarps project converter to convert it to zip.
 This took 2 days to recreate, so I hope you enjoy!
@@ -29,3 +31,4 @@ NO STEALING/EMBEDING ON WEBSITES WITHOUT MY PERMISSION; Stealing is a serious cr
 Credits:
 All programing is from me
 FNAF Franchise for all art and sounds
+
